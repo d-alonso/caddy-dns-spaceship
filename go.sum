@@ -26,6 +26,8 @@ github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDk
 github.com/coreos/go-systemd v0.0.0-20181012123002-c6f51f82210d/go.mod h1:F5haX7vjVVG0kc13fIWeqUViNPyEJxv/OmvnBo0Yme4=
 github.com/d-alonso/libdns-spaceship v0.0.0-20260228143414-681f1dd16983 h1:2hmpr8QvbOyaZF34uIrcD/u3d52ng/f5Fn4GRtUxBBk=
 github.com/d-alonso/libdns-spaceship v0.0.0-20260228143414-681f1dd16983/go.mod h1:EJigtocf6CV4+wPksRkNXx4yfjhHw199Nye/uKO2PjU=
+github.com/d-alonso/libdns-spaceship v0.0.0-20260228144341-662dd4f54fb3 h1:wqVB9OI9g3hme2tDAPQ4UQ6FRKrqJkDrv5ioNZB22+4=
+github.com/d-alonso/libdns-spaceship v0.0.0-20260228144341-662dd4f54fb3/go.mod h1:EJigtocf6CV4+wPksRkNXx4yfjhHw199Nye/uKO2PjU=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/dustin/go-humanize v1.0.0/go.mod h1:HtrtbFcZ19U5GC7JDqmcUSB87Iq5E25KnS6fMYU6eOk=
