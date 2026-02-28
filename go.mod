@@ -1,17 +1,15 @@
-module github.com/caddy-dns/spaceship
+module github.com/d-alonso/caddy-dns-spaceship
 
 go 1.25
 
-require (
-	github.com/caddyserver/caddy/v2 v2.10.2
-	github.com/libdns/spaceship v1.0.0
-)
+require github.com/caddyserver/caddy/v2 v2.10.2
 
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/caddyserver/certmagic v0.24.0 // indirect
 	github.com/caddyserver/zerossl v0.1.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
+	github.com/d-alonso/libdns-spaceship v0.0.0-20260228143414-681f1dd16983 // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect

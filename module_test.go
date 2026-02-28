@@ -8,7 +8,7 @@ import (
 
     "github.com/caddyserver/caddy/v2"
     "github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-    libdnsspaceship "github.com/libdns/spaceship"
+    libdnsspaceship "github.com/d-alonso/libdns-spaceship"
 )
 
 // tokenize is a very small tokenizer sufficient for the test snippets.
