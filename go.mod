@@ -9,7 +9,7 @@ require (
 	github.com/caddyserver/certmagic v0.24.0 // indirect
 	github.com/caddyserver/zerossl v0.1.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/d-alonso/libdns-spaceship v0.0.0-20260228144341-662dd4f54fb3 // indirect
+	github.com/d-alonso/libdns-spaceship v0.0.0-20260228155323-0aa3a6ba5c1e // indirect
 	github.com/francoispqt/gojay v1.2.13 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
